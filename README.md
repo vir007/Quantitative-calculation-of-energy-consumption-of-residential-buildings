@@ -26,6 +26,7 @@
 ## Results
 - For Heating Load
 Algorithm |	Accuracy | ( STD)
+--- | --- | ---
 LiR	| 0.892809 | (0.064143)
 Ridge	| 0.888898 | (0.073554)
 Lasso	| 0.739750 | (0.185156)
@@ -38,7 +39,8 @@ CART |	0.968717 | (0.082255)
 SVM |	0.837300 | (0.149457)
 
 - For Cooling Load
-Accuracy | ( STD)
+--- | --- | ---
+Algorithm | Accuracy | ( STD)
 LiR	| 0.876337 | (0.033166)
 Ridge	| 0.870432 | (0.036123)
 Lasso	| 0.751754 | (0.101792)
